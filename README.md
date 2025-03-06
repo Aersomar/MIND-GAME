@@ -18,6 +18,7 @@ entertainment and mental exercise to sharpen your mind and test your skills.
 ### Prerequisites
 
 •	A web server (e.g., XAMPP, WAMP, or a live server)
+
 •	PHP and MySQL for backend functionality
 
 ### Installation
